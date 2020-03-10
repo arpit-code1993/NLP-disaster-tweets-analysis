@@ -9,9 +9,9 @@ this is clear for a human right away. But it's less clear to a machine.
 
 This kernel  will be divided into the following parts
 
-Data Exploration
-Data Preprocessing
-Basic NLP Techniques
-Models Bulding
-Models evaluation
+Data Exploration<br/>
+Data Preprocessing<br/>
+Basic NLP Techniques<br/>
+Models Bulding<br/>
+Models evaluation<br/>
 
